@@ -3,7 +3,7 @@ Helping A Startup With Their Website And Android App And Building A Prototype Fo
 
 <img src="https://raw.githubusercontent.com/naseemali925/PartnerMile/master/screens/Screenshot_1525377478.png" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/naseemali925/PartnerMile/master/screens/Screenshot_1525377496.png" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/naseemali925/PartnerMile/master/screens/Screenshot_1525377506.png" width="250">
 
-**Check Out Lumos <a href="https://github.com/naseemali925/PartnerMile/tree/master/Milepartner.apk">Here</a>**
+**Check Out The Prototype <a href="https://github.com/naseemali925/PartnerMile/tree/master/Milepartner.apk">Here</a>**
  
  ## Working On
   <ul>
