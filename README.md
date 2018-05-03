@@ -1,5 +1,5 @@
 # PartnerMile
-Helping A Startup With Their Website And Android App.
+Helping A Startup With Their Website And Android App And Building A Prototype For A Bus/Ticket Booking Android App.
 
 <img src="https://raw.githubusercontent.com/naseemali925/PartnerMile/master/screens/Screenshot_1525377496.png" width="300">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/naseemali925/PartnerMile/master/screens/Screenshot_1525377506.png" width="300">&nbsp;&nbsp;
@@ -8,10 +8,9 @@ Helping A Startup With Their Website And Android App.
  
  ## Working On
   <ul>
-  <li>Integrating A Complete Dictionary Of Signs</li>
-  <li>Integrating Gifs For Better Understanding</li>
-  <li>Advanced Context Detection</li>
-  <li>More Video's</li>
+  <li>Implementing A Payment Gateway(PayUMoney Preferred)</li>
+  <li>Implementing All The API's For Hotel And Bus Booking</li>
+  <li>A Scalable Model For The App</li>
   </ul>
   
 ## How You Can Contribute?
